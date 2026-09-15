@@ -41,8 +41,8 @@ To develop a Java program that monitors AQI readings using a sensor network and 
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: Deepak JG
+RegisterNumber:  212224220019
 */
 ```
 
